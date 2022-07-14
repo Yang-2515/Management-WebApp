@@ -1,0 +1,16 @@
+D:\Enlab\Management WebApp\WebApp.Infragtructure\obj\Debug\netcoreapp3.1\WebApp.Infragtructure.csproj.AssemblyReference.cache
+D:\Enlab\Management WebApp\WebApp.Infragtructure\obj\Debug\netcoreapp3.1\WebApp.Infragtructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enlab\Management WebApp\WebApp.Infragtructure\obj\Debug\netcoreapp3.1\WebApp.Infragtructure.AssemblyInfoInputs.cache
+D:\Enlab\Management WebApp\WebApp.Infragtructure\obj\Debug\netcoreapp3.1\WebApp.Infragtructure.AssemblyInfo.cs
+D:\Enlab\Management WebApp\WebApp.Infragtructure\obj\Debug\netcoreapp3.1\WebApp.Infragtructure.csproj.CoreCompileInputs.cache
+D:\Enlab\Management WebApp\WebApp.Infragtructure\bin\Debug\netcoreapp3.1\WebApp.Infragtructure.deps.json
+D:\Enlab\Management WebApp\WebApp.Infragtructure\bin\Debug\netcoreapp3.1\WebApp.Infragtructure.runtimeconfig.json
+D:\Enlab\Management WebApp\WebApp.Infragtructure\bin\Debug\netcoreapp3.1\WebApp.Infragtructure.runtimeconfig.dev.json
+D:\Enlab\Management WebApp\WebApp.Infragtructure\bin\Debug\netcoreapp3.1\WebApp.Infragtructure.dll
+D:\Enlab\Management WebApp\WebApp.Infragtructure\bin\Debug\netcoreapp3.1\WebApp.Infragtructure.pdb
+D:\Enlab\Management WebApp\WebApp.Infragtructure\bin\Debug\netcoreapp3.1\WebApp.Domain.dll
+D:\Enlab\Management WebApp\WebApp.Infragtructure\bin\Debug\netcoreapp3.1\WebApp.Domain.pdb
+D:\Enlab\Management WebApp\WebApp.Infragtructure\obj\Debug\netcoreapp3.1\WebApp.Infragtructure.csproj.CopyComplete
+D:\Enlab\Management WebApp\WebApp.Infragtructure\obj\Debug\netcoreapp3.1\WebApp.Infragtructure.dll
+D:\Enlab\Management WebApp\WebApp.Infragtructure\obj\Debug\netcoreapp3.1\WebApp.Infragtructure.pdb
+D:\Enlab\Management WebApp\WebApp.Infragtructure\obj\Debug\netcoreapp3.1\WebApp.Infragtructure.genruntimeconfig.cache
